@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/hemantk29052001" target="blank"><img src="https://img.shields.io/twitter/follow/hemantk29052001?logo=twitter&style=for-the-badge" alt="hemantk29052001" /></a> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React.js, Java**
 
 - 📫 How to reach me **hemantkumar29052001@gmail.com**
 
